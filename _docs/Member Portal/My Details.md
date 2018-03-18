@@ -6,6 +6,6 @@ order: 3
 
 My Details
 
-The member portal menu gives quick access for members to view their profiles different areas. The top menu allows users to manage their account, view their recent activity, change their password, as well as log out.
+MemberCRM gives members the option to edit their details within the portal. A user is able to update their details, change passwords, and security questions. 
 
 [image of my details]
