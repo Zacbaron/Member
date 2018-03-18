@@ -6,4 +6,6 @@ order: 8
 
 Member Portal SE Returns
 
-> This is the SE Returns page
+The SE Returns page displays a full list of all SE Returns associated to the account. Members can view, and pay returns from this page.
+
+[image of SE Returns]
