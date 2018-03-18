@@ -6,4 +6,6 @@ order: 7
 
 Member Portal Entitlements
 
-> This is the entitlements page
+Members can view a list of all their entitlements within this page. Users can also create and delete new claims.
+
+[image of entitlements]
