@@ -6,4 +6,6 @@ order: 9
 
 Member Portal Contact Us
 
-> This is the Contact Us page
+MemberCRM has a simple and easy to use communications system for members to contact the back office with any questions.
+
+[image of contact us]
